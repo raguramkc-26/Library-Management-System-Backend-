@@ -26,6 +26,7 @@ app.use(
     origin: [
       "http://localhost:5173",
       "https://librarymanagemsystem.netlify.app",
+      "https://bank-registration-red.vercel.app/"
     ],
     credentials: true,
   })
